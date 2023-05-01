@@ -339,6 +339,11 @@ footer {
     height: 100%;
   }
 }
+@media (min-width: 950px) {
+  .info {
+    margin-top: 0;
+  }
+}
 
 .info-images {
   margin: 7em 2em;

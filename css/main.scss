@@ -357,6 +357,9 @@ footer {
             height: 100%;
         }
     }
+    @media (min-width: 950px) {
+        margin-top: 0;
+    }
 }
 
 .info-images {
