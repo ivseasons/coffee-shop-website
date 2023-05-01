@@ -266,9 +266,9 @@ footer {
   position: relative;
   place-items: center;
   text-align: center;
-  height: 40vh;
   top: -20vh;
   z-index: 5;
+  margin-bottom: 2em;
 }
 .hero-left-col .hero-logo-img {
   width: 15em;
@@ -316,6 +316,7 @@ footer {
 
 /* Info Section */
 .info {
+  margin-top: 5em;
   height: 50vh;
 }
 .info .info-text {
